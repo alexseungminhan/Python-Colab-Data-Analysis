@@ -23,6 +23,14 @@
 + Through data visualization, showed negative and positive correlations between different variables.
 + Used the used car dataset from Kaggle.
 
+#### credit_card.ipynb
+
++ Drew histograms to roughly illustrate the distributions of variables.
++ Drew bar graphs to compare the number of approvals/approval rates between gender, age, and property status.
++ Drew a decision tree using approval status to classify and predict variables.
++ Used the credit card dataset from Kaggle.
+
 ### Reference
 
 + Used Car Price Prediction Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
++ Credit Card Eligibility Data: Determining Factors: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
