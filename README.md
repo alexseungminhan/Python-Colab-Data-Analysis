@@ -14,6 +14,15 @@
 #### Pandas_test.ipynb
 
 + Tested out basic features of Python libraries (e.g. histogram, scatter plot, decision tree, etc.).
-+ Used the built-in Iris flower dataset. 
++ Used the built-in Iris flower dataset.
 
-#### Reference
+#### used_car.ipynb
+
++ Drew scatterplots using different variables such as mileage, price, and model year.
++ Processed data by removing outliers.
++ Through data visualization, showed negative and positive correlations between different variables.
++ Used the used car dataset from Kaggle.
+
+### Reference
+
++ Used Car Price Prediction Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
