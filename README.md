@@ -30,7 +30,14 @@
 + Drew a decision tree using approval status to classify and predict variables.
 + Used the credit card dataset from Kaggle.
 
+#### mushroom.ipynb
+
++ Classified data in terms of mushrooms' edibility.
++ Drew scatterplots with different dot sizes depending on the count/percentage of variables.
++ Used the mushroom dataset from Kaggle.
+
 ### Reference
 
 + Used Car Price Prediction Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
 + Credit Card Eligibility Data: Determining Factors: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
++ Mushroom Classification: https://www.kaggle.com/datasets/uciml/mushroom-classification
