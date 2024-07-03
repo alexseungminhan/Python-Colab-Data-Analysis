@@ -2,7 +2,7 @@
 ***
 ### About the Repository 
 
-+ Aimed to analyze raw data sets from Kaggle, especially through data visualization using Python.
++ Aimed to analyze raw data sets from Kaggle, especially through data visualization with Python.
 + The goal was to utilize data analysis tools from libraries to gain data insights.
 + Started the project on 01MAY24.
 
