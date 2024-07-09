@@ -36,8 +36,19 @@
 + Drew scatterplots with different dot sizes depending on the count/percentage of variables.
 + Used the mushroom dataset from Kaggle.
 
+#### fifa.ipynb
+
++ Made a program that draws a overlapping radar chart when
++ Drew pie charts/histograms to compare players' preferred foot, position, age, and overall.
++ Drew boxplots to show the height, age, overall, and wage difference between positions.
++ Drew scatterplots to check correlations between overall and wage.
++ Reduced the mean squared error of the prediction model by modifying data/variables and calculated the regression line equation.
++ Split range into 100 sub-ranges and randomly selected samples from each range with the same size for even representation, and drew scatterplots comparing real wages to the predicted wages.
++ Used the FIFA23 dataset from Kaggle.
+
 ### Reference
 
 + Used Car Price Prediction Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
 + Credit Card Eligibility Data: Determining Factors: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
 + Mushroom Classification: https://www.kaggle.com/datasets/uciml/mushroom-classification
++ FIFA23 OFFICIAL DATASET: https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database
