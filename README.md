@@ -38,7 +38,7 @@
 
 #### fifa.ipynb
 
-+ Made a program that draws a overlapping radar chart when
++ Made a program that draws an overlapping radar chart to compare players' overall, potential, skill moves, international reputation, and weak foot.
 + Drew pie charts/histograms to compare players' preferred foot, position, age, and overall.
 + Drew boxplots to show the height, age, overall, and wage difference between positions.
 + Drew scatterplots to check correlations between overall and wage.
